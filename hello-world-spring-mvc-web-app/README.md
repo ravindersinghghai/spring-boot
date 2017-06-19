@@ -1,6 +1,7 @@
 #####################################
 
  hello-world-spring-mvc-web-app
+
 #####################################
 
 This is a simple 'hello-world' web application that leverages Spring MVC, Spring boot, Thymeleaf as view technology and Apache Maven.
@@ -10,7 +11,9 @@ Source: https://spring.io/guides/gs/serving-web-content/#initial
 ################################
 
 Key notes about the application
+
 ################################
+
 
 The Spring Boot Maven plugin s been used (as can be seen in pom.xml); it provides many convenient features:
 
