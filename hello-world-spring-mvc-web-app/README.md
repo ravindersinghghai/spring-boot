@@ -1,4 +1,5 @@
-############################i#########
+#####################################
+
  hello-world-spring-mvc-web-app
 #####################################
 
@@ -7,6 +8,7 @@ This is a simple 'hello-world' web application that leverages Spring MVC, Spring
 Source: https://spring.io/guides/gs/serving-web-content/#initial
 
 ################################
+
 Key notes about the application
 ################################
 
