@@ -6,6 +6,12 @@
 target
 out
 
+# Maven files and folders #
+###########################
+mvnw
+mvnw.cmd
+.mvn
+
 # Other files #
 ###############
 *.swp

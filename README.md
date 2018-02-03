@@ -1,2 +1,3 @@
 # spring-boot
-namespace for spring boot applications
+
+This is a namespace for sprin gboot applications.
